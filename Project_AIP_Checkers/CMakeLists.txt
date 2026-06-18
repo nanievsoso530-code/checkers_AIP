@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(pr4)
+add_executable(proj main.cpp Fonc.cpp)
+add_executable(MyTest Test.cpp)
+enable_testing()
+add_test(NAME test_Fonc COMMAND test_Fonc --force-colors -d)

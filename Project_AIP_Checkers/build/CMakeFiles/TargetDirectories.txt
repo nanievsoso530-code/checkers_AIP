@@ -1,0 +1,5 @@
+D:/HSE/AIP/Project-2/Final/build/CMakeFiles/proj.dir
+D:/HSE/AIP/Project-2/Final/build/CMakeFiles/MyTest.dir
+D:/HSE/AIP/Project-2/Final/build/CMakeFiles/test.dir
+D:/HSE/AIP/Project-2/Final/build/CMakeFiles/edit_cache.dir
+D:/HSE/AIP/Project-2/Final/build/CMakeFiles/rebuild_cache.dir
